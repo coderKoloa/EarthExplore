@@ -29,6 +29,8 @@ xcuserdata/
 *.dSYM
 *.db3
 *.db
+libWhirlyGlobeMaplyComponent.a
+WhirlyGlobeMaplyComponent.framework
 
 # CocoaPods
 #
